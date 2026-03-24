@@ -2,14 +2,20 @@
 Once you "pop" You cant Stop
 
 SirPopaLot (Windower Addon)
+
 Version: 26.03.23 BETA
-Author: DaneBlood 
+
+Author: DaneBlood
+
+---
 
 Overview
 
 SirPopaLot is an addon for FFXI that simplifies trading items, spawning NMs, interacting with NPCs, and handling various in-game systems based on your current target.
 
 It detects what you're targeting and performs the correct action (trade, menu navigation, warp, etc.).
+
+---
 
 Features
 - abyssea popsets
@@ -43,8 +49,7 @@ Features
 - Gives hints or do the appripriate actions for Devices in Sortie (/Hurry or Get you naked...)
 and many many more
 
-
-
+---
 
 Commands
 
@@ -57,6 +62,7 @@ Toggles Key Item Protection on/off
 
 /pop info
 
+---
 
 Requirements:
 TradeNPC - addon
