@@ -15,6 +15,8 @@ SirPopaLot is an addon for FFXI that simplifies trading items, spawning NMs, int
 
 It detects what you're targeting and performs the correct action (trade, menu navigation, warp, etc.).
 
+SirPopAlot does NOT use packets, and does NOT do AFK automations.
+
 ---
 
 Features
